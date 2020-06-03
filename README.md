@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Node, npm and a text editor. I'm using VSCode.
 
-## Installing
+## BackEnd
 cd to the cloned folder.
 ```
 $ cd /server
@@ -21,6 +21,7 @@ $ npm run dev
 ```
 The Backend will be running in the http://localhost:3333. To test the routes, i'm leaving this [Insomnia file](Insomnia_2020-06-02.json).
 
+## FrontEnd
 Go to another terminal.
 ```
 $ cd /web
