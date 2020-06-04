@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 Node, npm and a text editor. I'm using VSCode.
 
 ## BackEnd
-cd to the cloned folder.
+cd to the cloned folder. Go to [ItemsControllers](server/src/controllers/ItemsController.ts) and change the image_url to your local IP.
 ```
 $ cd /server
 $ npm install
@@ -30,6 +30,15 @@ $ npm start
 ```
 Go to http://localhost:3000 and the project is up and running!
 
+## Mobile
+I'm using Expo, so make sure that you have it. Go to another terminal.
+```
+$ cd /mobile
+$ npm install
+$ npm start
+```
+Go to the expo page and connect.
+
 ## Built With
 
 * [JavaScript](https://devdocs.io/javascript/) - Main Language
@@ -37,6 +46,7 @@ Go to http://localhost:3000 and the project is up and running!
 * [React.js](https://reactjs.org/) - Js framework for WEB
 * [React Native](https://facebook.github.io/react-native/) - JS framework for APPs
 * [SQLite](https://www.sqlite.org/index.html) - Database
+* [Expo](https://expo.io/) - Used to improve the app development
 
 ## Authors
 
