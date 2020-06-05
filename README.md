@@ -4,23 +4,28 @@
   <img alt="Ecoleta" src="https://github.com/lmaoclost/NextLevelWeek-1/blob/master/web/src/assets/logo.svg">
 </div>
 
-<div align="center">
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-191A1E">
 
-![GitHub issues][github_issues_badge] ![GitHub][repository_license_badge] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![React_Native_Badge][mobile_react-native_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.png?v=101)](https://github.com/ellerbrock/typescript-badges/)
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
   </a>
 
+  <a href="https://www.linkedin.com/in/renansmoliveira/">
+    <img alt="Follow me Linkedin" src="https://img.shields.io/badge/Follow%20up-renansmoliveira-191A1E?style=social&logo=linkedin">
+  </a>
 </div>
 
 Project for a [Course](https://nextlevelweek.com/aulas/booster/1/edicao/1) that has the purpose to code a an ecological project named Ecoleta using Node, ReactJS and React Native. This project connects companies or entities that collect disposable materials with people who need to dispose it.
 
 ## Some Images
 
+### WEB
 <div align="center">
   <img alt="Web" src="https://github.com/lmaoclost/NextLevelWeek-1/blob/master/imgs/web.png">
 </div>
 
+### Mobile
 <div align="center">
   <img alt="Mobile" src="https://github.com/lmaoclost/NextLevelWeek-1/blob/master/imgs/mobile.png">
 </div>
