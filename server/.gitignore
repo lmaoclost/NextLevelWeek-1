@@ -1,4 +1,7 @@
-database.sqlite
+*.sqlite
+
+uploads/*
+!uploads/*.svg
 
 # Logs
 logs
