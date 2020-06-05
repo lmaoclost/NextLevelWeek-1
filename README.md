@@ -1,4 +1,4 @@
-# NextLevelWeek 1 WIP
+# NextLevelWeek #01
 
 Project for a [Course](https://nextlevelweek.com/aulas/booster/1/edicao/1) that has the purpose to code a an ecological project named Ecoleta using Node, ReactJS and React Native. This project connects companies or entities that collect disposable materials with people who need to dispose it.
 
