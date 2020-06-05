@@ -74,7 +74,6 @@ const Points = () =>{
         items: selectedItems
       }
     }).then(response => {
-      console.log([routeParams.city, routeParams.uf, selectedItems]);
       setPoints(response.data);
     });
   }, [selectedItems]);
